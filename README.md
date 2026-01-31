@@ -18,13 +18,13 @@ If this guide helped you crack an interview or learn something new, consider buy
       <td align="center">
         <img src="assets/upi_qr.png" width="200" alt="UPI QR Code" />
         <br/><br/>
-        <code>your-upi-id@okhdfcbank</code> </td>
+        <code>9103523688@axl</code> </td>
       <td align="center">
         <a href="https://www.buymeacoffee.com/njasm">
   <img src="assets/bmc_qr.png" width="200" alt="Scan to Donate" />
 </a>
 
-[Click here to Support](https://www.buymeacoffee.com/njasm)b></a>
+[Click here to Support](https://www.buymeacoffee.com/njasm)<b></a>
       </td>
     </tr>
   </table>
